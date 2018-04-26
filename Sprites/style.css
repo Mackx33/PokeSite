@@ -1,6 +1,4 @@
 html{
-  margin: 0;
-  padding: 0;
   background-color: black;
 }
 
@@ -11,8 +9,7 @@ html{
 }
 
 #game{
-  width: 1200px;
-  margin: auto;
-  display: block;
-  position: relative;
+  width: 750px;
+  height: 580px;
+  margin-left: 20%;
 }
