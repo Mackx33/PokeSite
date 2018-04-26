@@ -8,5 +8,11 @@ html{
   width: 90px;
   image-orientation: flip;
   position: absolute;
-  bottom: 0;
+}
+
+#game{
+  width: 1200px;
+  margin: auto;
+  display: block;
+  position: relative;
 }
